@@ -59,19 +59,21 @@ Random consulting musings
 - victory is an illusion, don’t get too comfortable
 - defeat is a learning experience
 
-    state your fair price, some would say double it
-    Be kind but firm when saying no
-    Never mock a client system however antiquated, bad or quirky for it’s the one making money that they’re using to pay you
+ -   state your fair price, some would say double it
+ -   Be kind but firm when saying no
+ -   Never mock a client system however antiquated, bad or quirky for it’s the one making money that they’re using to pay you
 
 
-    trust but verify
-    Send summary email after each meeting
-    Keep asking questions until they trot out the person with the answer
-    Find out what the rare skills are. Acquire them. Keep doubling your rate until you don’t get any takers. Profit
+ -   trust but verify
+ -   Send summary email after each meeting
+ -   Keep asking questions until they trot out the person with the answer
+ -   Find out what the rare skills are. Acquire them. Keep doubling your rate until you don’t get any takers. Profit
 
 
-    have to be able to look someone in the eye and ask them for extra effort occasionally
-    Run towards the fire for exec visibility
-    Continuous bad news - deliver updates in small batches don’t wait a while to drop a big update
-    Prevent team from burning out
-    Resourcing be very specific on what level of expertise for each skill
+-    have to be able to look someone in the eye and ask them for extra effort occasionally
+-    Run towards the fire for exec visibility
+-    Continuous bad news - deliver updates in small batches don’t wait a while to drop a big update
+-    Prevent team from burning out
+-    Resourcing be very specific on what level of expertise for each skill
+- document all key decisions and assumptions and publicly share them
+- When in Rome - learn their lingo and arconyms and incorporate into your vocab
