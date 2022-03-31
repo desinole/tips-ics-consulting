@@ -77,3 +77,4 @@ Random consulting musings
 -    Resourcing be very specific on what level of expertise for each skill
 - document all key decisions and assumptions and publicly share them
 - When in Rome - learn their lingo and arconyms and incorporate into your vocab
+- not all conflict is bad. In fact, no conflict is a bad sign. Also, constant unproductive conflict is bad.
