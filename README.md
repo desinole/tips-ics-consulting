@@ -78,3 +78,4 @@ Random consulting musings
 - document all key decisions and assumptions and publicly share them
 - When in Rome - learn their lingo and arconyms and incorporate into your vocab
 - not all conflict is bad. In fact, no conflict is a bad sign. Also, constant unproductive conflict is bad.
+- beware of mythology within organizations
