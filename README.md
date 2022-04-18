@@ -79,3 +79,4 @@ Random consulting musings
 - When in Rome - learn their lingo and arconyms and incorporate into your vocab
 - not all conflict is bad. In fact, no conflict is a bad sign. Also, constant unproductive conflict is bad.
 - beware of mythology within organizations
+- Beware of magic
