@@ -50,3 +50,4 @@ Random consulting musings learned from the best I’ve worked with:
 - not all conflict is bad. In fact, no conflict is a bad sign. Also, constant unproductive conflict is bad.
 - beware of mythology within organizations
 - Beware of magic
+- Understand customer communication culture (could be generic based on location or specific to customer). Low context and high context culture. Assume low context. Demistify terms you do not understand.
